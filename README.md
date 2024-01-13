@@ -4,9 +4,7 @@ Durante mi curzada en soyHenry aprendí a manejar entre otras cosas herramientas
 
 HTML - CSS - JavaScript - React - Redux - NodeJs - Express - Sequelize - PostgreSQL - Git - Github
 
-Actualmente estoy practicando los metodos de SCRUM mientras trabajo 
-
-en un proyecto grupal sobre una **e-commerce app**
+Tengo varios proyectos individuales y grupales, estoy buscando experiencia laboral
 
 Pueden contactarme por www.linkedin.com/in/damián-federico-bastos-36486918a
 

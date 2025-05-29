@@ -18,13 +18,12 @@
 
 **Backend:**  
 ✔ Node.js | Express | Java | Spring Boot  
-✔ APIs REST | GraphQL (opcional, si aplica)  
+✔ APIs REST | GraphQL
 
 **Bases de Datos:**  
-✔ PostgreSQL | MySQL (si usas WordPress)  
-
+✔ PostgreSQL | MySQL 
 **Herramientas:**  
-✔ Git | GitHub | Docker (si lo manejas)  
+✔ Git | GitHub | Docker 
 
 ---
 
